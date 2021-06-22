@@ -1,6 +1,6 @@
 # TIC TAC TOE
 
-Check it here: https://malya-tic-tac-toe.netlify.app
+Check it out here: https://malya-tic-tac-toe.netlify.app
 
 This is a simple Tic Tac Toe Game
 
