@@ -1,5 +1,7 @@
 # Rock-Paper-and-Scissors
 
-A game of rock, paper and scissors using HTML, CSS and Javascript
+An oldschool game of Rock, Paper and Scissors 
+
+Stack used : HTML, CSS and Javascript
 
 Hosted at: https://rock-paper-scissors-malya.netlify.app
