@@ -7,7 +7,9 @@ Check it out here : https://memory-game-by-malya-53.netlify.app
 
 
 Basic JavaScript Application (Game)
+
 Stack : HTML/CSS, JavaScript, JQuery
+
 
 **It is a memory game.**
 
