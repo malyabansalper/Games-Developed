@@ -1,5 +1,5 @@
 var userClickedPattern=[];
-var buttonColours=["red", "blue", "green", "yellow"];
+var buttonColours=["red", "blue", "green", "yellow"]; //array for colors
 var gamePattern= [];
 
 $(".btn").click(function()
